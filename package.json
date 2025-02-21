@@ -1,0 +1,22 @@
+{
+  "name": "motorcrafter",
+  "version": "1.0.0",
+  "description": "an app built for users to create a new vehicle or select an existing vehicle of their type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oshockley/MotorCrafter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oshockley/MotorCrafter/issues"
+  },
+  "homepage": "https://github.com/oshockley/MotorCrafter#readme",
+  "dependencies": {
+    "inquirer": "^12.4.2"
+  }
+}
