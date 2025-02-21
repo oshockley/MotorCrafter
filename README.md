@@ -22,6 +22,7 @@ You are able park, drive, and reverse your crafted new or existing vehicle.
 
 
 # Walkthrough Video
+- Link to Video: https://drive.google.com/file/d/1ziwIW2ndacwPVm97yBzmLPjqwqsVS4S7/view?usp=sharing
 
 
 # Questions
