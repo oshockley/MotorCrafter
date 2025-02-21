@@ -6,6 +6,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Walkthrough Video](#walkthrough-video)
+- [Questions](#questions)
 
 # Description
 The MotorCrafter is a command-line application built for users to create a new vehicle or select an existing vehicle of their type. Users can choose between car, truck, and motorbike.
@@ -21,6 +22,7 @@ You are able park, drive, and reverse your crafted new or existing vehicle.
 
 
 # Walkthrough Video
+
 
 # Questions
 - Github User: Oshockle
