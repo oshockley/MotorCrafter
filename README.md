@@ -30,4 +30,7 @@ You are able park, drive, and reverse your crafted new or existing vehicle.
 - GitHub URL: https://github.com/oshockley/MotorCrafter
 - Email: shockleyoneal@gmail.com
 
+# License
+- MIT License 
+
 
